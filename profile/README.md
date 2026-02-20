@@ -12,22 +12,18 @@ Selamat datang di **DBS-CodingCamp-Archives**! Organisasi ini merupakan wadah do
 
 Di sini saya mendokumentasikan setiap modul yang saya selesaikan:
 
-| Modul                          |     Status      | Repositori                                                                    |
-| :----------------------------- | :-------------: | :---------------------------------------------------------------------------- |
-| **Dasar Pemrograman Web**      |   ✅ Selesai    | [lihat repo](https://github.com/DBS-CodingCamp-Archives/web-dasar-submission) |
-| **Frontend Web Pemula**        | ⏳ Sedang Jalan | [lihat repo](https://github.com/DBS-CodingCamp-Archives/frontend-fundamental) |
-| **Backend Pemula (Node.js)**   |  🚀 Mendatang   | -                                                                             |
-| **Project Akhir (Full-Stack)** |    🏆 Target    | -                                                                             |
-
-## 🛠️ Tech Stack yang Dipelajari
-
-Selama program ini, saya fokus mendalami:
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Validasi & Tools:** Zod, Git/GitHub, Postman
+| Modul                            |   Kategori   | Repositori                                                                                       |
+| :------------------------------- | :----------: | :----------------------------------------------------------------------------------------------- |
+| **Dasar Pemrograman Web**        | Submission📝 | [lihat repo](https://github.com/DBS-CodingCamp-Archives/submission-dasar-pemrograman-web)        |
+| **Dasar Pemrograman JavaScript** | Submission📝 | [lihat repo](https://github.com/DBS-CodingCamp-Archives/submission-dasar-pemrograman-javascript) |
 
 ---
+
+## Media Sosial & Kontak
+
+- **LinkedIn:** [Lihat Profil](https://www.linkedin.com/in/iibibrhm/)
+- **GitHub:** [Lihat Profil](https://github.com/Ibrhm1)
+- **Dicoding:** [Lihat Profil](https://www.dicoding.com/users/ibrhm22/academies)
 
 ## 📈 Statistik Belajar
 
